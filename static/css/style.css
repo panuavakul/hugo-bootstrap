@@ -6,3 +6,13 @@
 .blog-post img {
   max-width: 100%;
 }
+
+/* Make the code block round */
+.highlight { 
+  margin:0 0 25px;
+  overflow:hidden;
+  padding:20px;
+  background-color:#272822;
+  border:1px solid #afcde3;
+  border-radius: 16px;
+}
